@@ -50,7 +50,7 @@ virtualenv venv
 4. Install requred packages
 
 ```bash
-pip install -r requirements.txt`
+pip install -r requirements.txt
 ```
 
 ## Usage
