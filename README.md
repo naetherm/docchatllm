@@ -22,7 +22,7 @@ To install and run DocChatLLM, follow these steps:
 
 1. Clone repository
 
-```
+```bash
 git clone https://github.com/naetherm/docchatllm.git
 cd DocChatLLM
 
@@ -32,13 +32,13 @@ cd DocChatLLM
 
 Using `venv`
 
-```
+```bash
 python -m venv venv
 ```
 
 Using `virtualenv`
 
-```
+```bash
 virtualenv venv
 ```
 
@@ -49,14 +49,14 @@ virtualenv venv
 
 4. Install requred packages
 
-```
+```bash
 pip install -r requirements.txt`
+```
 
 ## Usage
 
 After installing the required packages, you can start the application with the following command:
 
-```
+```bash
 streamlit run app.py
-
 ```
