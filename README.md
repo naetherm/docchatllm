@@ -4,7 +4,7 @@ DocChatLLM is a tool designed to facilitate chat-like dialogues with uploaded do
 
 ## Features
 
-- Upload documents in various formats (e.g., PDF, Images).
+- Upload documents in various formats (e.g., PDF, Image-Documents, DOCX).
 - Engage in chat-like interactions to extract information from documents.
 - User-friendly interface powered by Streamlit.
 
